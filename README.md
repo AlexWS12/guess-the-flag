@@ -1,10 +1,10 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Guess The Flag*
 
-Submitted by: **Your Name Here**
+Submitted by: **Alex Waisman*
 
-This web app: **insert description**
+This web app: **This web app is an interactive flashcard game that challenges users to identify country flags. It presents a flag and prompts the player to guess the correct country name. Designed to be educational and fun, the app includes features such as difficulty levels, responsive card flipping animations, and a clean, user-friendly interface.**
 
-Time spent: **X** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## Required Features
 
@@ -39,10 +39,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/35sLM7p.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -54,7 +54,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Alex Waisman]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
