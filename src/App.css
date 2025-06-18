@@ -33,6 +33,12 @@ body {
   border: 2px solid #4ade80;
   padding: 1rem;
   text-align: center;
+  outline: none;
+  user-select: none;
+}
+
+.card:focus {
+  outline: none;
 }
 
 .card:hover {

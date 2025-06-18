@@ -28,7 +28,7 @@ The following **optional** features are implemented:
 
 - [x] Cards contain images in addition to or in place of text
   - [x] Some or all cards have images in place of or in addition to text
-- [ ] Cards have different visual styles such as color based on their category
+- [x] Cards have different visual styles such as color based on their category
   - Example categories you can use:
     - Difficulty: Easy/medium/hard
     - Subject: Biology/Chemistry/Physics/Earth science
@@ -36,8 +36,6 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you added to improve the site's functionality!
-
-## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
