@@ -1,0 +1,96 @@
+body {
+  background: linear-gradient(to bottom right, #0f172a, #1e3a8a);
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+.container {
+  padding: 3rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-size: 1.25rem;
+}
+
+.card {
+  width: 360px;
+  height: 240px;
+  margin: 2rem auto;
+  border-radius: 12px;
+  background-color: #ecfccb;
+  color: #0f172a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  transition: transform 0.2s ease;
+  border: 2px solid #4ade80;
+  padding: 1rem;
+  text-align: center;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 8px;
+}
+
+.card.asia {
+  background-color: #fef3c7;
+  border-color: #facc15;
+}
+
+.card.europe {
+  background-color: #e0f2fe;
+  border-color: #3b82f6;
+}
+
+.card.africa {
+  background-color: #fee2e2;
+  border-color: #dc2626;
+}
+
+.card.south-america {
+  background-color: #ecfccb;
+  border-color: #65a30d;
+}
+
+button {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  background: #0077ff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background: #005fd4;
+}
+
+.card h2 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  font-size: 1.1rem;
+  margin: 0.3rem 0;
+}
