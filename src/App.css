@@ -94,3 +94,15 @@ p {
   font-size: 1.1rem;
   margin: 0.3rem 0;
 }
+
+.easy {
+  border-color: #4ade80;
+}
+
+.medium {
+  border-color: #facc15; 
+}
+
+.hard {
+  border-color: #f87171; 
+}
